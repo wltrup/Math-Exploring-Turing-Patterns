@@ -10,10 +10,6 @@ I went quite far but there's plenty that could be done still so this is work in 
 
 Originally written on August 12, 2018.
 
-## Creator
-
-That would be me, _Wagner Truppel_.
-
 ## License
 
 I'm sharing this work under the [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](http://creativecommons.org/licenses/by-sa/4.0/) license. See the LICENSE file for more information.
